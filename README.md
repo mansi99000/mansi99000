@@ -16,7 +16,7 @@ I work at the intersection of **reinforcement learning** and **deep learning**, 
 |---------|-------------|------|
 | [**AltNet**](https://github.com/mansi99000/AltNet) | Addressing the plasticity-stability dilemma in RL (AAMAS 2026) | Python, PyTorch, Stable-Baselines3, DMC |
 | [**Recommendation with Transformers**](https://github.com/mansi99000/Recommendation_with_Transformers) | Personalized movie recommendations using the Transformer architecture on MovieLens 1M | Python, PyTorch |
-| [**RL for Stock Trading**](https://github.com/mansi99000/RL_for_stock_trading) | Comparing A2C, DDPG, and PILCO for automated multi-stock portfolio trading | Python, PyTorch, Gymnasium |
+| [**RL for Stock Trading**](https://github.com/mansi99000/RL_for_stock_trading) | Comparing A2C, DDPG for automated multi-stock portfolio trading | Python, PyTorch |
 
 ---
 

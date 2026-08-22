@@ -1,11 +1,5 @@
 # Hi, I'm Mansi Maheshwari
 
-**MS in Computer Science @ University of Massachusetts Amherst**
-
-I work at the intersection of **reinforcement learning** and **deep learning**, with a focus on building agents that learn efficiently, stay stable, and generalize to real-world problems.
-
----
-
 ### Research
 
 - **AltNet** -- Accepted at [AAMAS 2026](https://www.aamas2026-conference.auckland.ac.nz/). A dual-network architecture that solves the plasticity-stability dilemma in deep RL by alternating active and passive networks during periodic resets. Outperforms SAC, Standard Resets, and RDE across DeepMind Control Suite benchmarks. [[Paper]](https://arxiv.org/abs/2512.01034) [[Code]](https://github.com/mansi99000/AltNet)
